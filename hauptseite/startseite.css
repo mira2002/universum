@@ -9,7 +9,8 @@ background-attachment:      fixed         ;
 #logo
 {
 float:                      right;
-
+  margin-top: 30px;
+  margin-right: 110px;
 
 }
 
