@@ -1,0 +1,50 @@
+body
+{
+color:                      white;
+background-image:           url(bilder/bilder.gross/hintergrund.jpg);
+background-attachment:      fixed         ;
+
+}
+
+#logo
+{
+float:                      right;
+
+
+}
+
+#seitenleiste
+{
+}
+#top
+{
+border:                    30px;
+border-color:              white;
+border-width:              5px;
+border-style:              solid;
+margin:                    0px 0px 10px 0px;
+padding:                   30px 20px 30px 40px;
+background-image:          url(bilder/bilder.gross/universum.3.jpg);
+
+}
+
+#copyright
+{
+  text-align:             center;
+  padding:                20px;
+  margin:                 10px 330px 10px 330px;
+  font-size:              90%;
+  clear:                  right;
+  z-index:			          80;
+}
+
+#haupttext
+{
+border-width:            3px;
+border-style:            solid;
+margin:                  40px 40px 25px 40px;
+padding:                 30px;
+border-color:            #6E6E6;
+background-color:        #6E6E6;
+
+}
