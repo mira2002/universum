@@ -1,12 +1,18 @@
 body
 {
-color:                white;
+color:                black;
 }
 
 h2
 {
-color:                #FFBF00;
+color:                black;
+;
 font-size:            220%;
+font-style:           italic;
+}
+#headline
+{
+color:               white;
 }
 
 table
@@ -37,15 +43,4 @@ font-size:           130%;
  {
 padding-right:       30px;
 padding-left:        30px;
- }
-
- #haupttext
- {
- border-width:            3px;
- border-style:            solid;
- margin:                  40px 40px 25px 40px;
- padding:                 30px;
- border-color:            #6E6E6;
- background-color:        #6E6E6;
-
  }

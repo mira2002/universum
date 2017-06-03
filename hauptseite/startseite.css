@@ -1,6 +1,6 @@
 body
 {
-color:                      white;
+color:                      black;
 background-image:           url(bilder/bilder.gross/hintergrund.jpg);
 background-attachment:      fixed         ;
 
@@ -22,7 +22,8 @@ border:                    30px;
 border-color:              white;
 border-width:              5px;
 border-style:              solid;
-margin:                    0px 0px 10px 0px;
+border-radius:             25px;
+margin:                    0px 40px 10px 40px;
 padding:                   30px 20px 30px 40px;
 background-image:          url(bilder/bilder.gross/universum.3.jpg);
 
@@ -36,6 +37,7 @@ background-image:          url(bilder/bilder.gross/universum.3.jpg);
   font-size:              90%;
   clear:                  right;
   z-index:			          80;
+  color:                  white;
 }
 
 #haupttext
@@ -44,7 +46,7 @@ border-width:            3px;
 border-style:            solid;
 margin:                  40px 40px 25px 40px;
 padding:                 30px;
-border-color:            #6E6E6;
-background-color:        #6E6E6;
-
+border-color:            #C2C0C6;
+background-color:        #C2C0C6;
+border-radius: 25px;
 }
